@@ -34,6 +34,13 @@ SQL project with 30+ queries on a hospital database using JOINs, subqueries, GRO
 
 ---
 
+### 📞 Customer Satisfaction (CSAT) Analysis
+Analysed 32,654 customer calls using MySQL and built a Power BI dashboard to study channels, call reasons, response times, and satisfaction scores.
+
+🔗 [View Project](https://github.com/gokulaadesh255-tech/csat-analysis)
+
+---
+
 ## 💼 Experience
 
 **Data Analyst Intern**, DataMites, Bengaluru (Jun 2026 – Present)
