@@ -41,6 +41,13 @@ Analysed 32,654 customer calls using MySQL and built a Power BI dashboard to stu
 
 ---
 
+### 👥 HR Analysis
+Analysis of HR data to understand employee trends and attrition, with an interactive dashboard for insights.
+
+🔗 [View Project](https://github.com/gokulaadesh255-tech/HR-analysis)
+
+---
+
 ## 💼 Experience
 
 **Data Analyst Intern**, DataMites, Bengaluru (Jun 2026 – Present)
